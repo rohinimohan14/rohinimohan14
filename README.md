@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohini
-- 👩‍💻 I’m interested in Software Development 
+- ☁️ I’m interested in AWS and Cryptography ! 
 - 🌱 I’m currently learning React Js !
-- 💞️ I’m looking to collaborate on a documentation project 
+
 
 
 <!---
