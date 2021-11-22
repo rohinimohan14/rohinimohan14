@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohini
 - ☁️ I’m interested in AWS and Cryptography ! 
 - 🌱 I’m currently learning React Js !
-- :wave: Connect with me [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
+- :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
 
 
 <!---
