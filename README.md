@@ -2,14 +2,14 @@
 - ☁️ I’m interested in Cloud , DevOps and People 
 - 🌱 I’m currently learning React Js !
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
-**⚡Languages that I know:**
+###Languages that I know:
 - Java
 - HTML5/CSS
 - PHP
 - JavaScript
 - Node.js
 - Python Flask
-**Tools and Languages that I'm learning:**
+###Tools and Languages that I'm learning:
 - React.js
 - AWS
 - MongoDB
