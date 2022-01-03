@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Rohini
-- ☁️ I’m interested in Cloud , DevOps and People 
-- 🌱 I’m currently learning React Js !
+
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
-### **Languages that I know:**
+### **Languages and tools that I know:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
