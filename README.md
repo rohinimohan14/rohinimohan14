@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rohinimohan14.github.io"><img width="80%" src="./readme-header.png" /></a></p> <br/>
+<p align="center"><a href="https://rohinimohan14.github.io"><img width="80%" src="./" /></a></p> <br/>
 **About me**
 
  :sparkles: Software Engineer 
