@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rohinimohan14.github.io"><img width="70%" src="./images/readme-header.png" /></a></p>
+![alt text](readme-header.png)
 
 <br />
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
