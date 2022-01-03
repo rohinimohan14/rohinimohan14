@@ -1,4 +1,4 @@
-	![alt text](readme-header.jpg)
+![alt text](readme-header.jpg)
 
 <br />
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
