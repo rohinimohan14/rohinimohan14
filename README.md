@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js !
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/rohini-mohan/)
 ### **Languages that I know:**
-- Java -HTML5/CSS -PHP -JavaScript -Node.js -Python Flask
+ :hammer:Java HTML5/CSS PHP JavaScript Node.js Python Flask
 ### **Tools and Languages that I'm learning:**
 - React.js
 - AWS
