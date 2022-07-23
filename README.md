@@ -2,8 +2,8 @@
 
 **About Me**
 
-- 🌼 Software Engineer 
-- 📈 Experimental and fun projects 
+- 🌼 Site Reliability Engineer
+- 📈 Learning and Growing
 - ❤️ I love writing code
 - 💬 Ask me about Community Development and AWS 
 
